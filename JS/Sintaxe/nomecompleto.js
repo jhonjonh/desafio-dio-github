@@ -9,4 +9,4 @@ console.log(typeof(palavra));
 
 let numero = new Number(5);
 
-
+let vetor = ["primeiro", "segundo", "terceiro", "quarto", "quinto"];
