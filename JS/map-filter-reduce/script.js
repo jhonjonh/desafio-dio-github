@@ -39,4 +39,5 @@ console.log(objeto.multiplica(2));
 console.log(objeto.filtraPares());
 console.log(objeto.juntaTudo());
 console.log(objeto.deduz());
+objeto.saldo = 200;
 console.log(objeto.saldo);
