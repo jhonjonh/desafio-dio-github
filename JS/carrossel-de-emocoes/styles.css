@@ -1,0 +1,15 @@
+#btns {
+    border: 2px solid black;
+    width: 75%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: darkgrey;
+}
+
+#btns button {
+    width: 90%;
+    height: 48px;
+    font-size: 24px;
+    margin: 20px auto;
+}
