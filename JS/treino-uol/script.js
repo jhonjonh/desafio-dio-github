@@ -60,7 +60,7 @@ function repeatCounter(array) {
         repetidos = [];
     };
 
-    //convertendo o resultado em string:    
+    //convertendo o resultado (que é um objeto) em string:    
     let resultadostr = '';
     for (let i in resultado) {
         resultadostr += i + ": " + resultado[i] + "\n";
